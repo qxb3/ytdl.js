@@ -1,5 +1,5 @@
 {
-  "name": "ytdl.js",
+  "name": "@qxbthree/ytdl.js",
   "description": "YouTube video downloader in pure javascript.",
   "keywords": [
     "youtube",
@@ -7,6 +7,7 @@
     "download"
   ],
   "version": "0.0.0-development",
+  "private": false,
   "repository": {
     "type": "git",
     "url": "git://github.com/fent/node-ytdl-core.git"
